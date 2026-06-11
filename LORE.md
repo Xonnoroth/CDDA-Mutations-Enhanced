@@ -1,3 +1,4 @@
 # General
 Mutations Enhanced tells of an Earth where portal technology led to the discovery of XE-037 and its uses decades prior to the founding of XEDRA and the major arms race in portal technology. This jumpstarted highly successful mutagenic programs that, within a few short years, moved from being an expensive, dangerous, and unethical way to create monsters, to being a way to make experimental supersoldiers. A few years after, mutants became an expensive and niche reality on the battlefield and in powerful individuals with strong government ties (Both in the U.S. and in any country with strong espionage capabilities). A few years prior to the Cataclysm, the process was considered safe and targeted enough to make a select handful of mutations available to the public for both personal enhancement (generally, nothing combat related) or cosmetics.
+
 test
