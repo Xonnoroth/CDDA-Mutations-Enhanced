@@ -1,0 +1,48 @@
+[
+  {
+    "type": "ITEM",
+    "//": "explicitly not considered ARMOR subtype to preserve properties and visuals of the original fur.",
+    "id": "integrated_bullet_resistant_fur", 
+    "armor": [
+      {
+        "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": "100", "thickness": 3 } ],
+        "covers": [
+          "hand_l",
+          "hand_r",
+          "foot_l",
+          "foot_r",
+          "leg_l",
+          "leg_r",
+          "arm_l",
+          "arm_r",
+          "torso",
+          "head",
+          "muzzle",
+          "muzzle_bear",
+          "muzzle_lupine",
+          "muzzle_rodent",
+          "muzzle_rabbit",
+          "arm_feathers_l",
+          "arm_feathers_r",
+          "paw_l",
+          "paw_r",
+          "paw_broad_l",
+          "paw_broad_r",
+          "paw_little_l",
+          "paw_little_r",
+          "animal_paw_l",
+          "animal_paw_r",
+          "animal_paw_rabbit_l",
+          "animal_paw_rebbit_r",
+          "tail_long",
+          "tail_fluffy",
+          "tail_thick",
+          "tail_club",
+          "cattle_tail",
+          "tail_raptor",
+          "tail_finned",
+        ],
+        "coverage": 100,
+        "encumbrance": 1
+      }
+    ]
