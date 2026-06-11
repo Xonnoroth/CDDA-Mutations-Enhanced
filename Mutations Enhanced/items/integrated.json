@@ -1,7 +1,7 @@
 [
   {
     "type": "ITEM",
-    "//": "explicitly not considered ARMOR subtype to preserve properties and visuals of the original fur.",
+    "subtype": "ARMOR",
     "id": "integrated_bullet_resistant_fur", 
     "armor": [
       {
@@ -43,6 +43,6 @@
           "tail_finned",
         ],
         "coverage": 100,
-        "encumbrance": 1
+        "encumbrance": 2
       }
     ]
