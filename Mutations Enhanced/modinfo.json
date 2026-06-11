@@ -1,1 +1,12 @@
-
+[
+  {
+    "type": "MOD_INFO",
+    "id": "mutations_enhanced",
+    "name": "Mutations Enhanced",
+    "authors": [ "Xonnoroth" ],
+    "maintainers": [ "Xonnoroth" ],
+    "description": "Adds a host of craftable magic items and spells, centered around the use of the Arcana skill to research and exploit otherworldly monsters and anomalies.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
