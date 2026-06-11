@@ -1,0 +1,2 @@
+# General
+Mutations Enhanced tells of an Earth where portal technology led to the discovery of XE-037 and its uses decades prior to the founding of XEDRA and the major arms race in portal technology. This jumpstarted highly successful mutagenic programs that, within a few short years, moved from being an expensive, dangerous, and unethical way to create monsters, to being a way to make experimental supersoldiers.
