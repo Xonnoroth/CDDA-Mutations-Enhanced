@@ -5,7 +5,7 @@
     "name": "Fur Weave",
     "//": "Explicitly not skin or armor subtype to maintain the other properties and visuals of the fur this mutation developed on to. No visibility or ugliness either, the fur it builds off of looks normal from surface.",
     "prereqs": [ "FUR", "LUPINE_FUR", "LUPINE_FUR_SUMMER", "URSINE_FUR", "URSINE_FUR_SUMMER", "FELINE_FUR", "LYNX_FUR", "RABBIT_FUR" ],
-    "points": "3",
+    "points": 3,
     "description": "The fur closest to your skin has grown into a complex weave, similar to ballistic kevlar.",
     "category": [ "URSINE", "LUPINE", "BEAST", "CATTLE", "RABBIT", "CHIROPTERAN", "FELINE" ],
     "vitamin_cost": 160,
