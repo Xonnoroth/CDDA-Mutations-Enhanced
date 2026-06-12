@@ -2,7 +2,7 @@
   {
     "id": "integrated_bullet_resistant_fur",
     "type": "ITEM",
-    "subtype": "ARMOR", 
+    "subtypes": [ "ARMOR" ], 
     "name": "woven fur",
     "armor": [
       {
