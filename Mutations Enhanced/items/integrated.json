@@ -4,8 +4,15 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ], 
     "name": "woven fur",
+    "description": "You can't see it, but you can feel how your fur has woven into fabric, just out of sight
+    "weight": "10 g",
+    "volume": "20 ml",
+    "price": "0 cent",
+    "price_postapoc": "0 cent",
     "symbol": ";",
     "color": "dark_gray",
+    "warmth": 5,
+    "environmental_protection": 1,
     "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
     "armor": [
       {
