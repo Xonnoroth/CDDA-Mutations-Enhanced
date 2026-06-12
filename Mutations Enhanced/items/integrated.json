@@ -1,8 +1,9 @@
 [
   {
+    "id": "integrated_bullet_resistant_fur",
     "type": "ITEM",
-    "subtype": "ARMOR",
-    "id": "integrated_bullet_resistant_fur", 
+    "subtype": "ARMOR", 
+    "name": "woven fur"
     "armor": [
       {
         "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": "100", "thickness": 3 } ],
