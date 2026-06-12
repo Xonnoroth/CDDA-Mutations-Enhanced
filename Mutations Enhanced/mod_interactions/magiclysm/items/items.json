@@ -90,27 +90,6 @@
     "use_action": { "type": "learn_spell", "spells": [ "foxs_cunning", "obfuscated_body", "summon_wisps" ] }
   },
   {
-    "id": "ninja_scroll",
-    "type": "BOOK",
-    "name": { "str": "esoteric scroll" },
-    "description": "A strange scroll that takes a while to make sense of. Seems to contain information about weapons that a ninja might use. There's even a strange food recipe.",
-    "weight": "435 g",
-    "volume": "500 ml",
-    "symbol": "?",
-    "color": "green"
-  },
-  {
-    "id": "ninja_scroll2",
-    "type": "BOOK",
-    "name": { "str": "esoteric scroll" },
-    "description": "A strange scroll that takes a while to make sense of. Seems to contain more advanced skills that a ninja might use. They seem particularly difficult to pull off, though.",
-    "weight": "435 g",
-    "volume": "500 ml",
-    "symbol": "?",
-    "color": "green",
-    "use_action": { "type": "learn_spell", "spells": [ "ninpo_star", "ninpo_blind", "ninpo_smoke", "ninpo_stealth" ] }
-  },
-  {
     "type": "GENERIC",
     "id": "magic_fox_plush",
     "symbol": "o",
@@ -124,5 +103,5 @@
     "weight": "400 g",
     "volume": "750 ml",
     "flags": [ "SLEEP_AID", "MAGIC_FOCUS" ]
-  },
+  }
 ]
