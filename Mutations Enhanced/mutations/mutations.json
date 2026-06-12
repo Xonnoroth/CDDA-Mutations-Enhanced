@@ -1,5 +1,18 @@
 [
   {
     "type": "mutation",
-    "id": "bullet_resistant_fur",
-    "name": "WIP",
+    "id": "fur_weave",
+    "name": "Fur Weave",
+    "//": "Explicitly not skin or armor subtype to maintain the other properties and visuals of the fur this mutation developed on to.",
+    "prereqs": [ "FUR", "LUPINE_FUR", "LUPINE_FUR_SUMMER", "URSINE_FUR", "URSINE_FUR_SUMMER", "FELINE_FUR", "LYNX_FUR", "RABBIT_FUR" ],
+    "points": "3",
+    "description": "The fur closest to your skin has grown into a complex weave, similar to ballistic kevlar.",
+    "category": [ "URSINE", "LUPINE", "BEAST", "CATTLE", "RABBIT", "CHIROPTERAN", "FELINE" ],
+    "vitamin_cost": 160,
+    "//": "No visibility or ugliness; whatever fur it originated from appears normal.",
+    "visibility": 0,
+    "ugliness": 0,
+    "integrated_armor": [ "integrated_bullet_resistant_fur" ]
+  }
+]
+    
