@@ -3,7 +3,7 @@
     "type": "material",
     "id": "bullet_resistant_fur",
     "name": "Bullet Resistant Fur",
-    "density": "1.4",
+    "density": 1.4,
     "soft": "true",
     "chip_resist": 8,
     "specific_heat_liquid": 0.82,
