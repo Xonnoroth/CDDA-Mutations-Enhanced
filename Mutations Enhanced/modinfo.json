@@ -8,5 +8,28 @@
     "description": "Changes the timeline on the discovery of mutations, leading to them being much more advanced in what they can do, how you can get them, and how widespread they were prior to the Cataclysm.",
     "category": "content",
     "dependencies": [ "dda" ]
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "PLAYER_MAX_STR_VALUE",
+    "stype": "int",
+    "value": 35
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "PLAYER_MAX_DEX_VALUE",
+    "stype": "int",
+    "value": 35
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "PLAYER_MAX_INT_VALUE",
+    "stype": "int",
+    "value": 35
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "PLAYER_MAX_PER_VALUE",
+    "stype": "int",
+    "value": 35
   }
 ]
