@@ -4,6 +4,9 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ], 
     "name": "woven fur",
+    "symbol": ";",
+    "color": "dark_gray",
+    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
     "armor": [
       {
         "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": 100, "thickness": 3 } ],
@@ -34,12 +37,12 @@
           "animal_paw_l",
           "animal_paw_r",
           "animal_paw_rabbit_l",
-          "animal_paw_rebbit_r",
+          "animal_paw_rabbit_r",
           "tail_long",
           "tail_fluffy",
           "tail_thick",
           "tail_club",
-          "cattle_tail",
+          "tail_bovine",
           "tail_raptor",
           "tail_finned"
         ],
