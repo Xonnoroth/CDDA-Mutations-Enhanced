@@ -1,0 +1,7 @@
+[
+  {
+    "id": "mon_mutant_evolved",
+    "type": "MONSTER",
+    "copy_from": "mon_mutant_evolved"
+  }
+]
