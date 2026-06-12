@@ -26,6 +26,7 @@
     "name": "PLAYER_MAX_INT_VALUE",
     "stype": "int",
     "value": 35
+  },
   {
     "type": "EXTERNAL_OPTION",
     "name": "PLAYER_MAX_PER_VALUE",
