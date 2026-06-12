@@ -6,7 +6,7 @@
     "name": "woven fur",
     "armor": [
       {
-        "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": "100", "thickness": 3 } ],
+        "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": 100, "thickness": 3 } ],
         "covers": [
           "hand_l",
           "hand_r",
