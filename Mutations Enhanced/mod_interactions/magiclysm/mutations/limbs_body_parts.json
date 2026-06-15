@@ -7,7 +7,7 @@
     "accusative": { "ctxt": "bodypart_accusative", "str": "muzzle" },
     "heading": { "ctxt": "bodypart_heading", "str": "muzzle" },
     "heading_multiple": "muzzles",
-    "opposite_part": "muzzle_long",
+    "opposite_part": "muzzle_fox",
     "hit_size": 0.65,
     "limb_types": "mouth",
     "limb_scores": [ [ "breathing", 1.0 ], [ "manip", 0.05, 0.2 ], [ "consume_liquid", 1.1 ], [ "consume_solid", 1.2 ] ],
