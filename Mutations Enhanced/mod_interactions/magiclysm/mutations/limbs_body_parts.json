@@ -15,8 +15,7 @@
     "base_hp": 75,
     "bionic_slots": 3,
     "flags": [ "LIMB_UPPER" ],
-    "sub_parts": [ "muzzle_fox_lips", "muzzle_long_nostrils", "muzzle_long_cheeks", "muzzle_long_chin" ],
-    "//": "We'll assume that if you've mutated far enough to have a reptilian mouth, biting is a primary attack for you",
-    "techniques": [ "TECH_REPTILE_BITE" ],
+    "sub_parts": [ "muzzle_fox_lips", "muzzle_fox_nostrils", "muzzle_fox_cheeks", "muzzle_fox_chin" ],
+    "techniques": [ "TECH_FOX_BITE" ],
     "unarmed_damage": [ { "damage_type": "bash", "amount": 3 }, { "damage_type": "stab", "amount": 8 } ]
   },
