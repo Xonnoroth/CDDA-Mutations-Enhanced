@@ -2,6 +2,17 @@
   {
     "type": "mod_tileset",
     "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE", "MSXotto+" ],
+	"tile_info": [
+    {
+      "pixelscale": 1,
+      "width": 32,
+      "height": 32,
+      "zlevel_height": 0,
+      "iso": false,
+      "retract_dist_min": -1.0,
+      "retract_dist_max": 1.0
+    }
+  ],
     "tiles-new": [
       {
         "file": "mod_tileset/UndeadPeople-Kitsune.png",
