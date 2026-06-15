@@ -22,7 +22,7 @@
       { "u_message": "You are concealed by glamor, and others turn an eye to your oddities.", "type": "good" },
       { "u_add_trait": "MINOR_GLAMOR" },
       { "queue_eocs": "EOC_MINOR_GLAMOR_CONTINUE", "time_in_future": { 
-		"math": [ "((u_spell_level('kitsune_glamor_minor')+1)*200)" ] } 
+		"math": [ "(u_spell_level('kitsune_glamour_minor') + 1) * 200" ] } 
 	  }
     ],
     "false_effect": [
