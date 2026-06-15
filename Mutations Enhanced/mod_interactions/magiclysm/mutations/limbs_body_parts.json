@@ -1,4 +1,5 @@
-  {
+  [
+    {
     "id": "muzzle_fox",
     "copy-from": "mouth",
     "type": "body_part",
@@ -18,4 +19,5 @@
     "sub_parts": [ "muzzle_fox_lips", "muzzle_fox_nostrils", "muzzle_fox_cheeks", "muzzle_fox_chin" ],
     "techniques": [ "TECH_FOX_BITE" ],
     "unarmed_damage": [ { "damage_type": "bash", "amount": 3 }, { "damage_type": "stab", "amount": 8 } ]
-  },
+    }
+  ]
