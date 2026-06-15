@@ -95,6 +95,19 @@
     "use_action": { "type": "learn_spell", "spells": [ "foxs_cunning", "obfuscated_body", "summon_wisps" ] }
   },
   {
+    "id": "fox_plush",
+	"type": "ITEM",
+    "symbol": "o",
+    "color": "red",
+    "name": "fox plushy",
+    "description": "A mass produced plush fox.",
+    "price": 200,
+    "material": [ "cotton" ],
+    "weight": "400 g",
+    "volume": "750 ml",
+    "flags": [ "SLEEP_AID" ]
+  },
+  {
     "id": "magic_fox_plush",
 	"type": "ITEM",
     "symbol": "o",
