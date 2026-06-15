@@ -16,7 +16,7 @@
     "base_hp": 75,
     "bionic_slots": 3,
     "flags": [ "LIMB_UPPER" ],
-    "sub_parts": [ "muzzle_fox_lips", "muzzle_fox_nostrils", "muzzle_fox_cheeks", "muzzle_fox_chin" ],
+    "sub_parts": [ "muzzle_fox_lips", "muzzle_fox_nose", "muzzle_fox_cheeks", "muzzle_fox_chin" ],
     "techniques": [ "TECH_FOX_BITE" ],
     "unarmed_damage": [ { "damage_type": "bash", "amount": 3 }, { "damage_type": "stab", "amount": 8 } ]
     }
