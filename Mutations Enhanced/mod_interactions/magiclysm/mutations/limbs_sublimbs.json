@@ -1,0 +1,40 @@
+ {
+    "id": "muzzle_fox_lips",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "lips",
+    "similar_bodypart": "muzzle_lips"
+  },
+  {
+    "id": "muzzle_fox_nose",
+    "type": "sub_body_part",
+    "max_coverage": 10,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "nostrils",
+    "similar_bodypart": "muzzle_nose"
+  },
+  {
+    "id": "muzzle_fox_cheeks",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "cheeks",
+    "similar_bodypart": "muzzle_cheeks"
+  },
+  {
+    "id": "muzzle_fox_chin",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "chin",
+    "similar_bodypart": "muzzle_chin"
+  },
