@@ -282,7 +282,6 @@
     "restricts_gear": [ "mouth" ],
     "social_modifiers": { "intimidate": 6 },
     "enchantments": [ { "condition": "ALWAYS", "modified_bodyparts": [ { "lose": "mouth" }, { "gain": "muzzle_fox" } ] } ]
-    },
 	"flags": [ "KITSUNE_MARKER_FACE" ]
   },
   {
