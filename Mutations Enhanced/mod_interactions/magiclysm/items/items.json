@@ -101,7 +101,7 @@
     "color": "red",
     "name": "fox plushy",
     "description": "A mass produced plush fox.",
-    "price": 200,
+    "price": "20 USD",
     "material": [ "cotton" ],
     "weight": "400 g",
     "volume": "750 ml",
