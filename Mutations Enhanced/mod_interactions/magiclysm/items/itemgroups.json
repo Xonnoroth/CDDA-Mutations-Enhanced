@@ -68,5 +68,5 @@
 		"id": "spellbook_tier_0",
 		"copy-from": "spellbook_tier_0",
 		"extend": { "items": [ [ "fox_book", 35 ] ] }
-	},
+	}
 ]
