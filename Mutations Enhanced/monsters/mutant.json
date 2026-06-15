@@ -3,7 +3,6 @@
     "id": "mon_mutant_evolved",
     "copy-from": "mon_mutant_evolved",
     "type": "MONSTER",
-    "//": "make sure to revert bullet armor to sane values when test is done.",
     "armor": { "stab": 16, "bash": 12, "cut": 16, "bullet": 20, "acid": 30, "electric": 6 }
   }
 ]
