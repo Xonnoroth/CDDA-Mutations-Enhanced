@@ -1,4 +1,5 @@
- {
+ [
+  {
     "id": "muzzle_fox_lips",
     "type": "sub_body_part",
     "max_coverage": 30,
@@ -37,4 +38,5 @@
     "side": "both",
     "name": "chin",
     "similar_bodypart": "muzzle_chin"
-  },
+  }
+ ]
