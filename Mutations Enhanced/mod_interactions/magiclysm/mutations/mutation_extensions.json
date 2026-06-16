@@ -249,42 +249,6 @@
   },
   {
     "type": "mutation",
-    "id": "PAWS",
-    "name": { "str": "Paws" },
-    "points": 0,
-    "visibility": 3,
-    "ugliness": 2,
-    "mixed_effect": true,
-    "description": "Your hands have fused into quasi-paws.  Fine manipulation is a challenge: permanent hand encumbrance of 10, difficulty with delicate craftwork, and your gloves don't fit.  But they handle water better and bear weight well, allowing you to move on all fours when crouching and unarmed.",
-    "encumbrance_always": [ [ "hand_l", 10 ], [ "hand_r", 10 ] ],
-    "restricts_gear": [ "hand_l", "hand_r" ],
-    "craft_skill_bonus": [ [ "electronics", -2 ], [ "tailor", -2 ], [ "mechanics", -2 ] ],
-    "types": [ "HANDS" ],
-    "prereqs": [ "NAILS", "CLAWS", "CLAWS_RETRACT", "CLAWS_RAT" ],
-    "cancels": [ "TALONS" ],
-    "changes_to": [ "PAWS_LARGE" ],
-	"flags": [ "QUADRUPED_CROUCH" ],
-    "category": [ "LUPINE", "RAT", "FELINE", "BEAST", "URSINE", "KITSUNE" ],
-    "triggers": [
-      [
-        {
-          "condition": {
-            "and": [
-              { "u_has_move_mode": "crouch" },
-              { "u_has_any_trait": [ "THRESH_BEAST", "THRESH_LUPINE", "THRESH_RABBIT", "THRESH_FELINE", "THRESH_FOX" ] },
-              { "not": "u_can_drop_weapon" },
-              { "not": { "u_has_flag": "QUADRUPED_RUN" } }
-            ]
-          },
-          "msg_on": { "text": "You drop down on all fours." },
-          "msg_off": { "text": "You come out of your quadrupedal posture." }
-        }
-      ]
-    ],
-    "enchantments": [ "ench_quadruped_movement_half" ]
-  },
-  {
-    "type": "mutation",
     "id": "NAILS",
     "copy-from": "NAILS",
     "extend": { "category": [ "KITSUNE" ] }
