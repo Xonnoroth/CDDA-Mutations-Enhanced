@@ -184,6 +184,47 @@
 	  }
   },
   {
+    "type": "mutation",
+    "id": "FOX_PAWS",
+    "name": { "str": "Fox Paws" },
+    "description": "Your hands, if you ever had them, are now neat and well groomed forepaws.  Tasks that involve fine manipulation, like using firearms and driving, aren't possible, but provided you have a matching set of hindpaws, your swiftness makes that unecessary.",
+    "category": [ "KITSUNE" ],
+    "types": [ "HANDS" ],
+    "prereqs": [ "NAILS", "CLAWS", "CLAWS_RETRACT", "CLAWS_RAT" ],
+    "prereqs2": [ "SHORTER_FINGERS" ],
+    "cancels": [ "TALONS" ],
+    "points": 0,
+    "mixed_effect": true,
+    "vitamin_cost": 160,
+    "visibility": 3,
+    "ugliness": 0,
+    "flags": [ "QUADRUPED_CROUCH" ],
+    "craft_skill_bonus": [ [ "electronics", -2 ], [ "tailor", -2 ], [ "mechanics", -2 ] ],
+    "restricts_gear": [ "hand_l", "hand_r" ],
+    "enchantments": [
+      "ench_quadruped_movement_half",
+      {
+        "modified_bodyparts": [ { "lose": "hand_l" }, { "lose": "hand_r" }, { "gain": "fox_paw_l" }, { "gain": "fox_paw_r" } ]
+      }
+    ],
+    "triggers": [
+      [
+        {
+          "condition": {
+            "and": [
+              { "u_has_move_mode": "crouch" },
+              { "u_has_any_trait": [ "THRESH_BEAST", "THRESH_LUPINE", "THRESH_RABBIT", "THRESH_FELINE" ] },
+              { "not": "u_can_drop_weapon" },
+              { "not": { "u_has_flag": "QUADRUPED_RUN" } }
+            ]
+          },
+          "msg_on": { "text": "You return to all fours." },
+          "msg_off": { "text": "You awkwardly stand on your hindlegs." }
+        }
+      ]
+    ]
+  },
+  {
 	"type": "mutation",
 	"id": "GLAM_PAWS",
 	"name": { "str": "Kitsune Paws" },
@@ -209,7 +250,7 @@
 	"condition": { "u_has_trait": "GLAM_PAWS" },
 	"effect": [
 	  { "u_lose_trait": "GLAM_PAWS" },
-	  { "u_lose_trait": "PAWS" },
+	  { "u_lose_trait": "FOX_PAWS" },
 	  { "u_add_trait": "HIDDEN_PAWS" },
 	  { "u_message": "You focus your magic and your paws shrink into human hands." }
 	],
@@ -218,7 +259,7 @@
 		"then": [ 
 		  { "u_lose_trait": "HIDDEN_PAWS" },
 		  { "u_add_trait": "GLAM_PAWS" },
-		  { "u_add_trait": "PAWS" },
+		  { "u_add_trait": "FOX_PAWS" },
 		  { "u_message": "With a thought, your magic surges and your hands return to their original shape."}
 		]
 	  }
