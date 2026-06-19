@@ -1,1 +1,28 @@
-
+[
+  {
+    "id": "pseudo_tail_launch",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
+    "name": "Tail Launcher",
+    "description": {
+    "str": "this a pseudo item",
+    "//~": "NO_I18N"
+  },
+  "volume": "3.5 L",
+  "price": "0 cent",
+  "material": [
+    "mutant_flesh",
+    "chitin"
+  ],
+    "symbol": "(",
+    "looks_like": "m79",
+    "skill": "launchers",
+    "range": 12,
+    "ranged_damage": {
+    "damage_type": "stab",
+    "amount": 15
+  },
+  "dispersion": 100,
+  "durability": 10,
+  "loudness": 5,
+  "ammo_effects": [ 
