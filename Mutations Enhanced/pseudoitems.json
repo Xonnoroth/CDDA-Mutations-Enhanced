@@ -8,9 +8,9 @@
     "str": "this a pseudo item",
     "//~": "NO_I18N"
   },
-  "volume": "3.5 L",
-  "price": "0 cent",
-  "material": [
+    "volume": "3.5 L",
+    "price": "0 cent",
+    "material": [
     "mutant_flesh",
     "chitin"
   ],
@@ -22,7 +22,14 @@
     "damage_type": "stab",
     "amount": 15
   },
-  "dispersion": 100,
-  "durability": 10,
-  "loudness": 5,
-  "ammo_effects": [ 
+    "dispersion": 100,
+    "durability": 10,
+    "loudness": 5,
+    "ammo_effects": [ "FRAG_20x66" ],
+    "flags": [
+    "NEVER_JAMS",
+    "TRADER_AVOID",
+    "ZERO_WEIGHT",
+  ]
+  }
+]
