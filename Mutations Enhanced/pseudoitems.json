@@ -29,7 +29,7 @@
     "flags": [
     "NEVER_JAMS",
     "TRADER_AVOID",
-    "ZERO_WEIGHT",
+    "ZERO_WEIGHT"
   ]
   }
 ]
