@@ -16,7 +16,7 @@
   ],
     "symbol": "(",
     "looks_like": "m79",
-    "skill": "launchers",
+    "skill": "launcher",
     "range": 12,
     "ranged_damage": {
     "damage_type": "stab",
