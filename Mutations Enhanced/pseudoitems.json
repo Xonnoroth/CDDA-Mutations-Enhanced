@@ -37,7 +37,8 @@
     {
       "pocket_type": "MAGAZINE",
       "ammo_restriction": {
-        "stinger": 1,
+        "stinger": 1 
+      },
         "open_container": true
       }
     }
