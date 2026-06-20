@@ -17,6 +17,8 @@
     "symbol": "(",
     "looks_like": "m79",
     "skill": "launcher",
+    "ammo": "stinger",
+    "ammo_to_fire": 1,
     "range": 12,
     "ranged_damage": {
     "damage_type": "stab",
@@ -25,11 +27,12 @@
     "dispersion": 100,
     "durability": 10,
     "loudness": 5,
-    "ammo_effects": [ "FRAG_20x66" ],
     "flags": [
     "NEVER_JAMS",
     "TRADER_AVOID",
     "ZERO_WEIGHT"
-  ]
+  ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 6 }, "airtight": true } ],
+    "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
   }
 ]
