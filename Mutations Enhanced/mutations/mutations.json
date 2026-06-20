@@ -27,7 +27,6 @@
     },
     "active": true,
     "cost": 1000,
-    "time": 300,
     "kcal": true,
     "stamina": true
   }
