@@ -59,7 +59,7 @@
     ]
   },
   {
-    "id": "stinger_growth_organ",
+    "id": "integrated_stinger_organ",
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": "Stinger Growth Organ",
