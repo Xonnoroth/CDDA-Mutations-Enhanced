@@ -1,3 +1,4 @@
+[
   {
     "id": "stinger",
     "type": "ITEM",
@@ -16,3 +17,4 @@
     "count": 1,
     "recoil": 10,
   }
+]
