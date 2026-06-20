@@ -63,7 +63,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": "Stinger Growth Organ",
-    "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies."
+    "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies.",
     "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
     "armor": [
       {
@@ -75,7 +75,7 @@
           "tail_finned"
         ],
         "coverage": 10,
-        "encumbrance": 10
+        "encumbrance": 10,
         "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 6 }, "airtight": true } ],
         "charge_info": { "recharge_type": "periodic", "time": "1 s", "regenerate_ammo": true }
       }
