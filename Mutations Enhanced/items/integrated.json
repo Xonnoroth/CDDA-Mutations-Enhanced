@@ -13,7 +13,7 @@
     "color": "dark_gray",
     "warmth": 5,
     "environmental_protection": 1,
-    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
+    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE", ],
     "armor": [
       {
         "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": 100, "thickness": 3 } ],
@@ -64,7 +64,7 @@
     "subtypes": [ "ARMOR", "TOOL", "ARTIFACT" ],
     "name": "Stinger Growth Organ",
     "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies.",
-    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
+    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE", "ZERO_WEIGHT" ],
     "armor": [
       {
         "material": [ { "type": "flesh", "covered_by_mat": 10, "thickness": 5 } ],
