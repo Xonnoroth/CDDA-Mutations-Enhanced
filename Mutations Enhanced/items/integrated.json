@@ -75,7 +75,7 @@
           "tail_finned"
         ],
         "coverage": 10,
-        "encumbrance": 10
+        "encumbrance": 3
       }
     ],
         "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 6 }, "airtight": true } ],
