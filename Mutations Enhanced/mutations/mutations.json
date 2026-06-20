@@ -22,12 +22,15 @@
     "prereqs": [ "TAIL_THICK", "TAIL_CLUB", "TAIL_FIN", "TAIL_RAPTOR" ],
     "points": 3,
     "category": [ "CHIMERA", "LIZARD", "FISH", "RAPTOR" ],
+    "vitamin_cost": 160,
+    "visibility": 1,
+    "ugliness": 1,
     "ranged_mutation": { 
       "type": "pseudo_tail_launch",
-      "message": "You launch your stinger at the %."
+      "message": "You launch your stinger at the %s."
     },
     "active": true,
-    "cost": 1000,
+    "cost": 100,
     "kcal": true,
     "stamina": true
   }
