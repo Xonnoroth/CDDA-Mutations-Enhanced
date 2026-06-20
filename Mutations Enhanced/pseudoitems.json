@@ -32,6 +32,14 @@
       "RELOAD_AND_SHOOT",
       "TRADER_AVOID",
       "ZERO_WEIGHT"
+  ],
+    "pocket_data": [
+    {
+      "pocket_type": "MAGAZINE",
+      "ammo_restriction": {
+        "stinger": 1
+      }
+    }
   ]
   }
 ]
