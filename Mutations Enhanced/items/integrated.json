@@ -13,7 +13,7 @@
     "color": "dark_gray",
     "warmth": 5,
     "environmental_protection": 1,
-    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE", ],
+    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
     "armor": [
       {
         "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": 100, "thickness": 3 } ],
