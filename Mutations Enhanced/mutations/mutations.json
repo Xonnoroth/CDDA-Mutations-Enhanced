@@ -24,7 +24,8 @@
       "type": "pseudo_tail_launch",
       "message": "You launch your stinger at the %."
     },
-    
+    "activation":
+    "cost":
   }
 ]
     
