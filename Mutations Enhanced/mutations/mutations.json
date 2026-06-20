@@ -29,6 +29,7 @@
       "type": "pseudo_tail_launch",
       "message": "You launch your stinger at the %s."
     },
+    "integrated_armor": [ "integrated_stinger_organ" ],
     "active": true,
     "cost": 100,
     "kcal": true,
