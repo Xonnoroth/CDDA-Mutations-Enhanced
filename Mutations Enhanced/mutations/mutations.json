@@ -19,6 +19,7 @@
     "name": "Tail Launcher",
     "description": "An openable orifice that can retract a stinger now lies in your tail, along with an organ capable of launching the stinger at velocities comparable to a powerful bow.", 
     "prereqs": [ "TAIL_THICK", "TAIL_CLUB", "TAIL_FIN", "TAIL_RAPTOR" ],
+    "points": 3,
     "category": [ "CHIMERA", "LIZARD", "FISH", "RAPTOR" ],
     "ranged_mutation": { 
       "type": "pseudo_tail_launch",
