@@ -26,6 +26,7 @@
   },
     "dispersion": 100,
     "durability": 10,
+    "clip_size": 1,
     "loudness": 5,
     "flags": [
       "NEVER_JAMS",
