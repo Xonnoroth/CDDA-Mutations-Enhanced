@@ -24,8 +24,11 @@
       "type": "pseudo_tail_launch",
       "message": "You launch your stinger at the %."
     },
-    "activation":
-    "cost":
+    "active": true,
+    "cost": 1000,
+    "time": 300,
+    "kcal": true,
+    "stamina": true
   }
 ]
     
