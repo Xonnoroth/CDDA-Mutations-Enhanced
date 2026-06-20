@@ -1,0 +1,18 @@
+  {
+    "id": "stinger",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
+    "name": { "str_sp": "stinger" },
+    "description": "A deadly stinger, grown to fly accurately through the air.",
+    "weight": "490 g",
+    "volume": "200 ml",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "material": [ "chitin" ],
+    "symbol": "=",
+    "color": "black",
+    "ammo_type": "stinger",
+    "range": 12,
+    "count": 1,
+    "recoil": 10,
+  }
