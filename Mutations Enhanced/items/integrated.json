@@ -75,10 +75,10 @@
           "tail_finned"
         ],
         "coverage": 10,
-        "encumbrance": 10,
+        "encumbrance": 10
+      }
+    ],
         "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 6 }, "airtight": true } ],
         "charge_info": { "recharge_type": "periodic", "time": "1 s", "regenerate_ammo": true }
-      }
-    ]
   }
 ]
