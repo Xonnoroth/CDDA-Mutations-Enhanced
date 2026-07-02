@@ -61,7 +61,7 @@
   {
     "id": "integrated_stinger_organ",
     "type": "ITEM",
-    "subtypes": [ "ARMOR", "GUN", "ARTIFACT" ],
+    "subtypes": [ "ARMOR", "ARTIFACT" ],
     "//": "turning this into a gun didn't seem to let you fire it. delete the cursed part gun nonsense when ur sure it can't work dis wae.",
     "name": "Stinger Growth Organ",
     "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies.",
