@@ -26,8 +26,13 @@
     "ugliness": 1,
     "ranged_mutation": { 
       "type": "pseudo_tail_launch",
-      "message": "You launch your stinger at the %s."
+      "message": "Chemicals pool in the tip of your tail."
     },
+    "flags": [
+    "BIONIC_TOGGLED",
+    "BIONIC_WEAPON",
+    "NO_UNWIELD"
+  ],
     "integrated_armor": [ "integrated_stinger_organ" ],
     "active": true,
     "cost": 50,
