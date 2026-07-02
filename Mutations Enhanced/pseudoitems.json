@@ -31,10 +31,7 @@
       "NEVER_JAMS",
       "TRADER_AVOID",
       "ZERO_WEIGHT",
-      "BIONIC_WEAPON",
-      "NO_UNWIELD"
   ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 6 }, "airtight": true } ],
-    "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 1 }, "airtight": true } ],
   }
 ]
