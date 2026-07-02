@@ -64,7 +64,7 @@
     "subtypes": [ "ARMOR", "ARTIFACT" ],
     "name": "Stinger Growth Organ",
     "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies.",
-    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "NEVER_JAMS", "PADDED", "NO_SALVAGE", "ZERO_WEIGHT" ],
+    "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE", "ZERO_WEIGHT" ],
     "symbol": "(",
     "looks_like": "m79",
     "skill": "launcher",
@@ -80,15 +80,6 @@
         "coverage": 10,
         "encumbrance": 3
       }
-    ],
-    "pocket_data": [
-    {
-      "ammo_restriction": {
-        "stinger": 6
-      },
-      "moves": 20
-    }
-  ],
-        "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
+    ]
   }
 ]
