@@ -14,7 +14,7 @@
     "flesh",
     "chitin"
   ],
-    "symbol": ")"
+    "symbol": ")",
     "skill": "launcher",
     "ammo": [ "stinger" ],
     "ammo_to_fire": 1,
