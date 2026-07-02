@@ -80,6 +80,15 @@
         "coverage": 10,
         "encumbrance": 3
       }
-    ]
+    ],
+    "pocket_data": [
+    {
+      "pocket_type": "MAGAZINE",
+      "ammo_restriction": {
+        "stinger": 6
+      }
+    }
+  ],
+        "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
   }
 ]
