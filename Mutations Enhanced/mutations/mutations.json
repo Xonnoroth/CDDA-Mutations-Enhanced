@@ -30,7 +30,7 @@
     },
     "integrated_armor": [ "integrated_stinger_organ" ],
     "active": true,
-    "cost": 100,
+    "cost": 50,
     "kcal": true,
     "stamina": true
   }
