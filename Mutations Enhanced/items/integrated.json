@@ -62,23 +62,12 @@
     "id": "integrated_stinger_organ",
     "type": "ITEM",
     "subtypes": [ "ARMOR", "ARTIFACT" ],
-    "//": "turning this into a gun didn't seem to let you fire it. delete the cursed part gun nonsense when ur sure it can't work dis wae.",
     "name": "Stinger Growth Organ",
     "description": "Along your tail is a lengthy tract for growing and storing long, bony stingers to launch at your enemies.",
     "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "NEVER_JAMS", "PADDED", "NO_SALVAGE", "ZERO_WEIGHT" ],
     "symbol": "(",
     "looks_like": "m79",
     "skill": "launcher",
-    "ammo": [ "stinger" ],
-    "ammo_to_fire": 1,
-    "range": 12,
-    "ranged_damage": {
-    "damage_type": "stab",
-    "amount": 15
-    },
-    "dispersion": 100,
-    "durability": 10,
-    "clip_size": 6,
     "armor": [
       {
         "material": [ { "type": "flesh", "covered_by_mat": 100, "thickness": 5 } ],
