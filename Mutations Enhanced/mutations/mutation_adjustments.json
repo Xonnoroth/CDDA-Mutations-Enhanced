@@ -1,0 +1,56 @@
+[
+{
+	"id": "BATEARS",
+	"copy-from": "BATEARS",
+	"type": "mutation",
+	"ugliness": 1
+},
+{
+	"id": "CANINE_EARS",
+	"copy-from": "CANINE_EARS",
+	"type": "mutation",
+	"description": "Your ears have migrated to the top of your head and have broadened and pointed, mimicking those of a canine.  They enhance your hearing, allowing you to hear at greater distances.",
+	"ugliness": 0
+},
+{
+	"id": "LUPINE_EARS",
+	"copy-from": "LUPINE_EARS",
+	"type": "mutation",
+	"ugliness": 0
+},
+{
+	"id": "FELINE_EARS",
+	"copy-from": "FELINE_EARS",
+	"type": "mutation",
+	"description": "Your ears have migrated to the top of your head and now have a soft, rounded triangular profile, like those of a feline.  You find it easier to tune in on sounds from afar.",
+	"ugliness": 0
+},
+{
+	"id": "ELFA_EARS",
+	"copy-from": "ELFA_EARS",
+	"type": "mutation",
+	"description": "Your ears have angled slightly, and you upper earlobes have grown noticeably higher, terminating in fine points.  Fortunately, they don't get in the way of your headgear, much.  Unfortunately, they also don't seem to help your hearing any.",
+	"ugliness": 0
+},
+{
+	"id": "RABBIT_EARS",
+	"copy-from": "RABBIT_EARS",
+	"type": "mutation",
+	"ugliness": 0
+},
+{
+	
+	"id": "MOUSE_EARS",
+	"copy-from": "MOUSE_EARS",
+	"type": "mutation",
+	"//": "Why is this post-threshold in base DDA? Learn how to disable threshreq with copy-from or disable the original and make a new version here later.",
+	"ugliness": 0
+},
+{
+	"id": "URSINE_EARS",
+	"copy-from": "URSINE_EARS",
+	"type": "mutation",
+	"description": "Your ears have grown rounder, and moved to the top of your head, just like those of a bear.  You can hear things a little farther away.",
+	"ugliness": 0
+}
+]
