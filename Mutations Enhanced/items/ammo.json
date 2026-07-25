@@ -1,6 +1,6 @@
 [
   {
-    "id": "stinger",
+    "id": "stinger_ammo",
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
     "name": { "str_sp": "stinger" },
