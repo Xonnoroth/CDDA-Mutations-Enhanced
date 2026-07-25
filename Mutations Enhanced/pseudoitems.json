@@ -16,7 +16,7 @@
   ],
     "symbol": ")",
     "skill": "launcher",
-    "ammo": [ "stinger" ],
+    "ammo": [ "stinger_ammo" ],
     "ammo_to_fire": 1,
     "range": 12,
     "ranged_damage": {
