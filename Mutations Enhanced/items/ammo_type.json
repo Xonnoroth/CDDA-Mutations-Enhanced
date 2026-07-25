@@ -1,9 +1,9 @@
 [
   {
     "type": "ammunition_type",
-    "id": "stinger",
+    "id": "stinger_ammo",
     "name": "stinger",
-    "default": "stinger"
+    "default": "stinger_ammo"
   }
 ]
     
