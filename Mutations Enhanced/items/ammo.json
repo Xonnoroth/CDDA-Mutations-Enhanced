@@ -9,7 +9,7 @@
     "volume": "200 ml",
     "price": "0 USD",
     "price_postapoc": "0 USD",
-    "material": [ "chitin" ],
+    "material": [ "bone" ],
     "symbol": "=",
     "color": "black",
     "ammo_type": "stinger_ammo",
