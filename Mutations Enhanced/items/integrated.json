@@ -83,12 +83,12 @@
     ],
     "pocket_data": [
     {
-      "pocket_type": "MAGAZINE",
       "ammo_restriction": {
-        "stinger": 6
-      }
+        "stinger_ammo": 6
+      },
+      "moves": 5
     }
   ],
-        "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
+    "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
   }
 ]
