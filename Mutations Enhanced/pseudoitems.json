@@ -2,7 +2,7 @@
   {
     "id": "pseudo_tail_launch",
     "type": "ITEM",
-    "subtypes": [ "GUN" ],
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "name": "Tail Launcher",
     "description": {
     "str": "this a pseudo item",
@@ -25,14 +25,13 @@
   },
     "dispersion": 100,
     "durability": 10,
-    "clip_size": 1,
+    "clip_size": 6,
     "loudness": 5,
     "flags": [
+      "BIONIC_WEAPON",
       "NEVER_JAMS",
       "TRADER_AVOID",
       "ZERO_WEIGHT",
-      "RELOAD_AND_SHOOT",
-      "PRIMITIVE_RANGED_WEAPON", 
       "WATERPROOF_GUN"
   ],
     "reload": 10,
@@ -40,13 +39,13 @@
     {
       "pocket_type": "MAGAZINE",
       "ammo_restriction": {
-        "stinger_ammo": 1
-      },
-      "open_container": true
+        "stinger_ammo": 6
+      }
     }
   ],
     "melee_damage": {
     "bash": 4
-    }
+    },
+    "charge_info": { "recharge_type": "periodic", "time": "10 s", "regenerate_ammo": true }
   }
 ]
