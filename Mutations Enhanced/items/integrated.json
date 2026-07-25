@@ -67,7 +67,6 @@
     "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE", "ZERO_WEIGHT" ],
     "symbol": "(",
     "looks_like": "m79",
-    "skill": "launcher",
     "armor": [
       {
         "material": [ { "type": "flesh", "covered_by_mat": 100, "thickness": 5 } ],
