@@ -31,7 +31,21 @@
       "NEVER_JAMS",
       "TRADER_AVOID",
       "ZERO_WEIGHT",
+      "RELOAD_AND_SHOOT",
+      "PRIMITIVE_RANGED_WEAPON", 
+      "WATERPROOF_GUN"
   ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "stinger": 1 }, "airtight": true } ],
+    "reload": 10,
+    "pocket_data": [
+    {
+      "pocket_type": "MAGAZINE",
+      "ammo_restriction": {
+        "stinger": 1
+      },
+      "open_container": true
+    }
+  ],
+    "melee_damage": {
+    "bash": 4
   }
 ]
