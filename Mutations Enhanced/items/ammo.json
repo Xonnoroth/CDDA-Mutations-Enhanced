@@ -8,8 +8,6 @@
     "description": "A deadly stinger, grown to fly accurately through the air.",
     "volume": "112 ml",
     "weight": "80 g",
-    "price": "0 USD",
-    "price_postapoc": "0 USD",
     "material": [ "bone" ],
     "symbol": "=",
     "color": "black",
