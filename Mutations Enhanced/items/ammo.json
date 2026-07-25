@@ -12,7 +12,7 @@
     "material": [ "chitin" ],
     "symbol": "=",
     "color": "black",
-    "ammo_type": "stinger",
+    "ammo_type": "stinger_ammo",
     "range": 12,
     "count": 1,
     "recoil": 10
