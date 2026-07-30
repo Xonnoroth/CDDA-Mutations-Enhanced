@@ -1,0 +1,12 @@
+[
+  {
+    "type": "effect_type",
+    "id": "effect_natural_quadruped",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "limb_score_mods": [
+      { "limb_score": "balance", "modifier": 5 }
+    ],
+    "flags": [ "EFFECT_LIMB_SCORE_MOD" ]
+  }
+]
