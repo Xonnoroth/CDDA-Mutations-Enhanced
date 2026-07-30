@@ -13,19 +13,22 @@
     "type": "EXTERNAL_OPTION",
     "name": "PLAYER_MAX_STR_VALUE",
     "stype": "int",
-    "value": 80
+    "value": 90
+    "//": "set to 90 with the intent that some extremely mutated individuals may in theory be able to shoulder fire an exodii naval rifle"
   },
   {
     "type": "EXTERNAL_OPTION",
     "name": "PLAYER_MAX_DEX_VALUE",
     "stype": "int",
     "value": 35
+    "//": "set to 35 because Dex past this point probably shouldn't have considerable effect on combat (I don't think we have support for soft capping superhuman stats currently), and I'm not willing to tackle making mutants able to perform precision machining with hand tools at this time"
   },
   {
     "type": "EXTERNAL_OPTION",
     "name": "PLAYER_MAX_INT_VALUE",
     "stype": "int",
     "value": 35
+    "//": "set to 35 because I'm not sure what the ramifications of any higher general intelligence could possibly be, and just perfect recall, fast reading and learning, etc. can all be their own mutations"
   },
   {
     "type": "EXTERNAL_OPTION",
