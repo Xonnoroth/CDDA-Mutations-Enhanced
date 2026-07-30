@@ -1,0 +1,40 @@
+[
+  {
+	"type": "body_part",
+	"id": "foreleg_l",
+	"//": "Clumsier than human arms for human tasks, but effective at attacking. The reduction in balance should be more than countered when on all fours.",
+	"name": "foreleg",
+	"copy-from": "arm_l",
+	"name_multiple": "forelegs",
+	"accusative": { "ctxt": "bodypart_accusative", "str": "left foreleg" },
+	"accusative_multiple": { "ctxt": "bodypart_accusative", "str": "forelegs" },
+	"heading": "left foreleg",
+	"heading_multiple": "forelegs",
+	"main_part": "foreleg_l",
+	"opposite_part": "foreleg_r",
+	"connected_to": "torso",
+	"side": "left",
+	"hit_size": 15,
+	"limb_types": "arm",
+	"limb_scores": [ [ "manip", 0.1, 0.2 ], [ "lift", 1.5 ], [ "balance", 0.12 ], [ "block", 0.8 ] ],
+	"windage_effect": "winded_arm",
+	"squeamish_penalty": 10,
+    "smash_efficiency": 1.5,
+    "sub_parts": [ "forelegs_shoulder_l", "forelegs_upper_l", "forelegs_elbow_l", "forelegs_lower_l" ],
+    "similar_bodypart": "arm_l"
+  },
+  {
+	  "type": "body_part",
+	  "id": "foreleg_r",
+	  "name": "foreleg",
+	  "copy-from": "foreleg_l",
+	  "heading": "right foreleg",
+	  "main_part": "foreleg_r",
+	  "opposite_part": "foreleg_l",
+	  "side": "right",
+	  "limb_scores": [ [ "manip", 0.1, 0.2 ], [ "lift", 1.5 ], [ "balance", 0.12 ], [ "block", 0.8 ] ],
+	  "windage_effect": "winded_arm",
+	  "sub_parts": [ "forelegs_shoulder_r", "forelegs_upper_r", "forelegs_elbow_r", "forelegs_lower_r" ],
+	  "similar_bodypart": "arm_r"
+  }
+]
