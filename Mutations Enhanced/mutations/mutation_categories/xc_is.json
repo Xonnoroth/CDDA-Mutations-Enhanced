@@ -1,0 +1,146 @@
+[
+{
+	"type": "mutation_category",
+	"id": "XC_IS",
+	"name": "XC-IS",
+	"threshold_mut": "THRESH_XC_IS",
+	"mutagen_message": "A proud roar gets stifled, in case it reveals your position. You instinctually scan the area for priority targets to destroy.",
+	"memorial_message": "Learned that even tanks can die.",
+	"vitamin": "mutagen_xc_is"
+},
+{
+	"type": "mutation",
+	"id": "THRESH_XC_IS",
+	"name": { "str": "XC-IS" },
+	"points": 1,
+	"description": "Your current existence was considered a failure by the old world. You don't feel like a failure, you feel hungry, and unstoppable. You haven't seen many anti-tank weapons ready to prove you wrong.",
+	"valid": false,
+	"purifiable": false,
+	"threshold": true
+},
+{
+	"type": "mutation",
+	"id": "QUADRUPED_NATURAL",
+	"name": { "str": "Natural Quadruped" },
+	"description": "What were your arms are now powerful forelegs, and your old legs finally have the right shape and proportions to match. You're much faster than before and bear weight even better when on all fours, and yourthough your manipulation score suffers further. You can technically stand on your hindlegs, but it's awkward and difficult to balance.",
+	"category": [ "XC_IS" ],
+	"types": [ "ARMS", "LEGS" ],
+	"prereqs": [ "PAWS_LARGE", "ANIMAL_FEET" ],
+	"threshreq": [ "THRESH_XC_IS" ],
+	"points": 3,
+    "vitamin_cost": 160,
+	"visibility": 4,
+	"ugliness": 1,
+	"flags": [ "QUADRUPED_RUN" ],
+	"enchantments": [
+    "ench_quadruped_movement_full",
+	"effect_natural_quadruped",
+    {
+      "condition": {
+        "and": [
+          {
+            "u_has_move_mode": "crouch"
+          },
+          {
+            "not": "u_can_drop_weapon"
+          },
+          {
+            "u_has_flag": "QUADRUPED_CROUCH"
+          }
+        ]
+      },
+      "values": [
+        {
+          "value": "MOVE_COST",
+          "multiply": -0.50
+        }
+      ]
+    },
+    {
+      "values": [
+        {
+          "value": "CARRY_WEIGHT",
+          "multiply": -0.3
+        }
+      ]
+    },
+    {
+      "condition": {
+        "not": {
+          "u_has_trait": "BIONIC_ARM_BASIC_LEFT"
+        }
+      },
+      "modified_bodyparts": [
+        {
+          "lose": "arm_l"
+        },
+        {
+          "gain": "foreleg_l"
+        }
+      ]
+    },
+    {
+      "condition": {
+        "not": {
+          "u_has_trait": "BIONIC_ARM_BASIC_RIGHT"
+        }
+      },
+      "modified_bodyparts": [
+        {
+          "lose": "arm_r"
+        },
+        {
+          "gain": "foreleg_r"
+        }
+      ]
+    }
+  ],
+  "triggers": [
+    [
+      {
+        "condition": {
+          "and": [
+            {
+              "or": [
+                {
+                  "u_has_move_mode": "run"
+                },
+                {
+                  "u_has_move_mode": "crouch"
+                }
+              ]
+            },
+            {
+              "not": "u_can_drop_weapon"
+            },
+            {
+              "u_has_any_trait": [
+                "THRESH_XC_IS",
+              ]
+            },
+            {
+              "u_has_flag": "QUADRUPED_CROUCH"
+            }
+          ]
+        },
+        "msg_on": {
+          "text": "You return to all fours."
+        },
+        "msg_off": {
+          "text": "You awkwardly stand on your hindlegs."
+        }
+      }
+    ]
+  ],
+  "wet_protection": [
+    {
+      "part": "foot_l",
+      "neutral": 10
+    },
+    {
+      "part": "foot_r",
+      "neutral": 10
+    }
+  ]
+ }
+]
