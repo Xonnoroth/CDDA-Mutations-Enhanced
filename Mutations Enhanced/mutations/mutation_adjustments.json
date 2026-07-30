@@ -23,7 +23,8 @@
 	"copy-from": "FELINE_EARS",
 	"type": "mutation",
 	"description": "Your ears have migrated to the top of your head and now have a soft, rounded triangular profile, like those of a feline.  You find it easier to tune in on sounds from afar.",
-	"ugliness": 0
+	"ugliness": 0,
+	"extend": { "category": [ "XC_IS" ] }
 },
 {
 	"id": "ELFA_EARS",
