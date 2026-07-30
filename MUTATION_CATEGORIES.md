@@ -10,7 +10,7 @@ Primary benefits:
 
 Downsides/Mixed:
 - Social penalties like Alpha that stem from superiority, but lessened
-- Still having your insides become your outsides if a real mutant gets in melee with you
+- Still having your insides quickly become your outsides if a real mutant gets in melee with you (unless you're fulled geared and armored in a powered combat exoskeleton)
 
 # XC-IS (Experimental Chimera - Infantry Support)
 A decade-old failed experimental mutation category that sought to turn an elite soldier into a quadrupedal beast the size of a small pickup truck, in the hopes of filling a role similar to an IFV or tank. The program succeeded at doing exactly that, although at even greater cost than such vehicles, without 
