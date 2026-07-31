@@ -3,6 +3,7 @@
     "id": "mon_mutant_evolved",
     "copy-from": "mon_mutant_evolved",
     "type": "MONSTER",
+    "//": "Requires playtesting for balance, current values were derived by bouncing a brain cell in my skull at random like the DVD screensaver.",
     "speed": 200,
     "melee_dice": 6,
     "melee_dice_sides": 4,
