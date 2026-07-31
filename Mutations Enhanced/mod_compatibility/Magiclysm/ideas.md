@@ -1,0 +1,2 @@
+Remember; don't merge my in progress update/adjustment Kitsune mod into this one, if I ever finish Mutations Enhanced and want to get it in-repo, it builds off of the work of a couple other prior people and I don't really want to figure out how to preserve authorship or whatever and possibly contact those 
+now inactive people to make sure everything is okay in that respect. If it turns out that's trivial, absolutely drop the fop in mod compatibility here.
