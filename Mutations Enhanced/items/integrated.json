@@ -74,7 +74,8 @@
           "tail_thick",
           "tail_club",
           "tail_raptor",
-          "tail_finned"
+          "tail_finned",
+          "tail_scorpion"
         ],
         "coverage": 10,
         "encumbrance": 3
