@@ -2,7 +2,7 @@
 {
 	"type": "mutation_category",
 	"id": "XC_IS",
-	"name": "XC-IS",
+	"name": "X4-IS Chimera",
 	"threshold_mut": "THRESH_XC_IS",
 	"mutagen_message": "A proud roar gets stifled, in case it reveals your position. You instinctually scan the area for priority targets to destroy.",
 	"memorial_message": "Learned that even tanks can die.",
@@ -11,7 +11,7 @@
 {
 	"type": "mutation",
 	"id": "THRESH_XC_IS",
-	"name": { "str": "XC-IS" },
+	"name": { "str": "X4-IS Chimera" },
 	"points": 1,
 	"description": "Your current existence was considered a failure by the old world. You don't feel like a failure, you feel hungry, and unstoppable. You haven't seen many anti-tank weapons ready to prove you wrong.",
 	"valid": false,
