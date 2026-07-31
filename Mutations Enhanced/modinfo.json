@@ -14,7 +14,7 @@
     "name": "PLAYER_MAX_STR_VALUE",
     "stype": "int",
     "value": 90,
-    "//": "set to 90 with the intent that some extremely mutated individuals may in theory be able to shoulder fire an exodii naval rifle"
+    "//": "set to 90 with the intent that some extremely mutated individuals may in theory be able to shoulder fire an exodii naval rifle and bash down locked metal doors without a tool"
   },
   {
     "type": "EXTERNAL_OPTION",
