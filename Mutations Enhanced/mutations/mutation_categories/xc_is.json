@@ -29,7 +29,7 @@
 	"threshreq": [ "THRESH_XC_IS" ],
 	"points": 3,
     "vitamin_cost": 160,
-	"visibility": 4,
+	"visibility": 10,
 	"ugliness": 1,
 	"flags": [ "QUADRUPED_RUN" ],
 	"enchantments": [
