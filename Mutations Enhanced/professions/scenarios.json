@@ -1,0 +1,6 @@
+[
+  {
+    "type": "scenario",
+    "id": "lab_cargo_mutant",
+    "copy-from": "lab_cargo_mutant",
+    "name": "
