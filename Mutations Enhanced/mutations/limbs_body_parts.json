@@ -20,7 +20,7 @@
 	"windage_effect": "winded_arm",
 	"squeamish_penalty": 10,
     "smash_efficiency": 1.5,
-    "sub_parts": [ "forelegs_shoulder_l", "forelegs_upper_l", "forelegs_elbow_l", "forelegs_lower_l" ],
+    "sub_parts": [ "foreleg_shoulder_l", "upper_foreleg_l", "foreleg_elbow_l", "lower_foreleg_l" ],
     "similar_bodypart": "arm_l"
   },
   {
@@ -34,7 +34,7 @@
 	  "side": "right",
 	  "limb_scores": [ [ "manip", 0.1, 0.2 ], [ "lift", 1.5 ], [ "balance", 0.12 ], [ "block", 0.8 ] ],
 	  "windage_effect": "winded_arm",
-	  "sub_parts": [ "forelegs_shoulder_r", "forelegs_upper_r", "forelegs_elbow_r", "forelegs_lower_r" ],
+	  "sub_parts": [ "foreleg_shoulder_r", "upper_foreleg_r", "foreleg_elbow_r", "lower_foreleg_r" ],
 	  "similar_bodypart": "arm_r"
   }
 ]
