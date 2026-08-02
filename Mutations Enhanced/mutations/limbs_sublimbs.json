@@ -56,13 +56,13 @@
   },
   {
     "type": "sub_body_part",
-    "id": "upper_forelegs_r",
+    "id": "upper_foreleg_r",
     "name": "right upper foreleg",
     "name_multiple": "upper forelegs",
     "parent": "foreleg_r",
     "side": "right",
     "similar_bodypart": "arm_upper_r",
-    "opposite": "upper_forelegs_l",
+    "opposite": "upper_foreleg_l",
     "max_coverage": 30
   },
   {
