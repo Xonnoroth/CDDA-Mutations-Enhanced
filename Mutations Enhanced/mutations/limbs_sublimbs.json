@@ -1,0 +1,90 @@
+[
+  {
+    "type": "sub_body_part",
+    "id": "foreleg_shoulder_l",
+    "name": "left foreleg shoulder",
+    "name_multiple": "foreleg shoulders",
+    "parent": "foreleg_l",
+    "side": "left",
+    "similar_bodypart": "arm_shoulder_l",
+    "opposite": "foreleg_shoulder_r",
+    "max_coverage": 5
+  },
+  {
+    "type": "sub_body_part",
+    "id": "upper_foreleg_l",
+    "name": "left upper foreleg",
+    "name_multiple": "upper forelegs",
+    "parent": "foreleg_l",
+    "side": "left",
+    "similar_bodypart": "arm_upper_l",
+    "opposite": "upper_foreleg_r",
+    "max_coverage": 30
+  },
+  {
+    "type": "sub_body_part",
+    "id": "foreleg_elbow_l",
+    "name": "left foreleg elbow",
+    "name_multiple": "foreleg elbows",
+    "parent": "foreleg_l",
+    "side": "left",
+    "similar_bodypart": "arm_elbow_l",
+    "opposite": "foreleg_elbow_r",
+    "max_coverage": 5
+  },
+  {
+    "type": "sub_body_part",
+    "id": "lower_foreleg_l",
+    "name": "left lower foreleg",
+    "name_multiple": "lower forelegs",
+    "parent": "forelegs_l",
+    "side": "left",
+    "similar_bodypart": "arm_lower_l",
+    "opposite": "lower_foreleg_r",
+    "max_coverage": 60
+  },
+  {
+    "type": "sub_body_part",
+    "id": "foreleg_shoulder_r",
+    "name": "right foreleg shoulder",
+    "name_multiple": "foreleg shoulders",
+    "parent": "foreleg_shoulder_r",
+    "side": "right",
+    "similar_bodypart": "arm_shoulder_r",
+    "opposite": "foreleg_shoulder_l",
+    "max_coverage": 5
+  },
+  {
+    "type": "sub_body_part",
+    "id": "upper_forelegs_r",
+    "name": "right upper foreleg",
+    "name_multiple": "upper forelegs",
+    "parent": "foreleg_r",
+    "side": "right",
+    "similar_bodypart": "arm_upper_r",
+    "opposite": "upper_forelegs_l",
+    "max_coverage": 30
+  },
+  {
+    "type": "sub_body_part",
+    "id": "foreleg_elbow_r",
+    "name": "right foreleg elbow",
+    "name_multiple": "foreleg elbows",
+    "parent": "foreleg_r",
+    "side": "right",
+    "similar_bodypart": "arm_elbow_r",
+    "opposite": "foreleg_elbow_l",
+    "max_coverage": 5
+  },
+  {
+    "type": "sub_body_part",
+    "id": "lower_foreleg_r",
+    "name": "right lower foreleg",
+    "name_multiple": "lower forelegs",
+    "parent": "foreleg_r",
+    "side": "right",
+    "similar_bodypart": "arm_lower_r",
+    "opposite": "lower_foreleg_l",
+    "max_coverage": 60
+  }
+]
