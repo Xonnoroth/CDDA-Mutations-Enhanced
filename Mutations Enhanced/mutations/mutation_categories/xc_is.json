@@ -22,7 +22,7 @@
 	"type": "mutation",
 	"id": "QUADRUPED_NATURAL",
 	"name": { "str": "Natural Quadruped" },
-	"description": "What were your arms are now powerful forelegs, and your old legs finally have the right shape and proportions to match. You're much faster than before and bear weight even better when on all fours, and yourthough your manipulation score suffers further. You can technically stand on your hindlegs, but it's awkward and difficult to balance.",
+	"description": "What were your arms are now powerful forelegs, and your old legs finally have the right shape and proportions to match. You're much faster than before and bear weight even better when on all fours, though your manipulation score suffers further. You can technically stand on your hindlegs, but it's awkward and difficult to balance.",
 	"category": [ "XC_IS" ],
 	"types": [ "ARMS" ],
 	"prereqs": [ "PAWS_LARGE", "ANIMAL_FEET" ],
