@@ -53,5 +53,67 @@
 	"type": "mutation",
 	"description": "Your ears have grown rounder, and moved to the top of your head, just like those of a bear.  You can hear things a little farther away.",
 	"ugliness": 0
-}
+},
+	{
+		"id": "TAIL_RAT",
+		"copy-from": "TAIL_RAT",
+		"type": "mutation",
+		"ugliness": 1
+	},
+	{
+		"id": "TAIL_FIN",
+		"copy-from": "TAIL_FIN",
+		"type": "mutation",
+		"description": "You have a tail with a caudal fin like that of a fish, shark, or similar. It allows you to swim more quickly, but prevents wearing non-fabric pants. Slightly increases wet benefits.",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_LONG",
+		"copy-from": "TAIL_LONG",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_CLUB",
+		"copy-from": "TAIL_CLUB",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_STING",
+		"copy-from": "TAIL_STING",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_STUB",
+		"copy-from": "TAIL_STUB",
+		"type": "mutation",
+		"description": "You have a short, stubby tail, like a deer or rabbit. It serves no clear practical purpose.",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_RABBIT",
+		"copy-from": "TAIL_RABBIT",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_FLUFFY",
+		"copy-from": "TAIL_FLUFFY",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_RAPTOR",
+		"copy-from": "TAIL_RAPTOR",
+		"type": "mutation",
+		"ugliness": 0
+	},
+	{
+		"id": "TAIL_CATTLE",
+		"copy-from": "TAIL_CATTLE",
+		"type": "mutation",
+		"ugliness": 0
+	}
 ]
