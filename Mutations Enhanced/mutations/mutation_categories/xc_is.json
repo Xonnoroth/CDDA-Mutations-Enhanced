@@ -52,7 +52,7 @@
       "values": [
         {
           "value": "MOVE_COST",
-          "multiply": -0.50
+          "multiply": -0.25
         }
       ]
     },
