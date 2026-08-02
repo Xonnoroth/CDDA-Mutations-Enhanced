@@ -1,0 +1,40 @@
+[
+  {
+    "type": "scenario",
+    "id": "civilian_mutant",
+    "copy-from": "largebuilding",
+    "name": "Civilian Mutant",
+    "points": 5,
+    "traits": [
+      "BATEARS",
+      "ELFA_EARS",
+      "CANINE_EARS",
+      "RABBIT_EARS",
+      "URSINE_EARS",
+      "FELINE_EARS",
+      "LUPINE_EARS",
+      "TAIL_RAT",
+      "TAIL_FIN",
+      "TAIL_LONG",
+      "TAIL_THICK",
+      "TAIL_RABBIT",
+      "TAIL_FLUFFY",
+      "TAIL_RAPTOR",
+      "TAIL_CATTLE",
+      "FUR",
+      "LUPINE_FUR",
+      "LYNX_FUR",
+      "FELINE_FUR",
+      "RABBIT_FUR",
+      "URSINE_FUR",
+      "LIGHTFUR",
+      "SNOUT",
+      "MINOTAUR",
+      "MUZZLE",
+      "MUZZLE_RAT",
+      "MUZZLE_LONG",
+      "MUZZLE_BEAR",
+      "MUZZLE_RAPTOR"
+    ]
+  }
+]
