@@ -44,7 +44,7 @@
 	"id": "MOUSE_EARS",
 	"copy-from": "MOUSE_EARS",
 	"type": "mutation",
-	"//": "Why is this post-threshold in base DDA? Learn how to disable threshreq with copy-from or disable the original and make a new version here later.",
+	"threshreq": [],
 	"ugliness": 0
 },
 {
