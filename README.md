@@ -10,6 +10,3 @@ While the intent is to eventually have the mod be a complete and interesting add
 - Mind Over Matter (Base mod's lore has psychic and mutagenic research seperate, so there's lots of untapped potential for mutations and psychic power.)
 - Xedra Evolved (Probably not much more than lore snippets that mesh the two togeteher. The mod already does a lot with the mutation system while mostly being seperate from mutagen so you can't be a Fae Vampire Mad Scientist, and I don't really disagree with that. Maybe give some of the supernatural creatures the odd extra mutation or buff if they are utterly outclassed by more traditional mutants, including fae enemies and such.)
 - Arcana (Also probably lore snippets and the odd buff like XE. Most stuff I could come up with probably fits in Arcana itself. I highly doubt many eldritch god worshipping cultists are quite as concerned with not turning into a grotesque abomination.)
-
-# Misc. To-Do
-- Retool the newer TCL mutant starts that start you as an already developed mutant into civilian mutant starts. This should get effectively get rid of starts that make no sense in this setting and make it less work to implement some ones that do.
