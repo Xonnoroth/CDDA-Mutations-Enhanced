@@ -4,27 +4,27 @@
     "id": "ballistic_fur",
     "name": "Ballistic Fur",
     "density": 1.4,
-    "specific_heat_liquid": 0.32,
-    "specific_heat_solid": 0.32,
-    "latent_heat": 383,
+    "specific_heat_liquid": 0.83,
+    "specific_heat_solid": 0.48,
+    "latent_heat": 310,
     "soft": true,
-    "chip_resist": 9,
+    "chip_resist": 20,
     "wind_resist": 20,
     "breathability": "POOR",
     "dmg_adj": [ "ripped", "torn", "shredded", "tattered" ],
     "bash_dmg_verb": "ripped",
     "cut_dmg_verb": "sliced",
-    "resist": { "bash": 1, "cut": 4, "acid": 2, "heat": 1, "bullet": 4, "stab": 1, "electric": 1 }
+    "resist": { "bash": 1.6, "cut": 2.1, "acid": 5, "heat": 5, "bullet": 5.1, "stab": 1.3, "electric": 2 }
   },
   {
     "type": "material",
     "id": "composite_scales",
     "name": "Composite Scales",
-    "density": 1.5,
-    "specific_heat_liquid": 1.5,
-    "specific_heat_solid": 1.5,
-    "latent_heat": 250,
-    "chip_resist": 9,
+    "density": 2,
+    "specific_heat_liquid": 0.82,
+    "specific_heat_solid": 0.45,
+    "latent_heat": 280,
+    "chip_resist": 20,
     "wind_resist": 85,
     "dmg_adj": [
     "scratched",
@@ -40,37 +40,14 @@
         2
       ]
     ],
-    "burn_data": [
-    {
-      "fuel": 0,
-      "smoke": 0,
-      "burn": 0
-    },
-    {
-      "fuel": 0,
-      "smoke": 1,
-      "burn": 1,
-      "volume_per_turn": "250 ml"
-    },
-    {
-      "fuel": 1,
-      "smoke": 1,
-      "burn": 2
-    }
-    ],
     "soft": true,
-    "burn_products": [
-    [
-      "corpse_ash",
-      0.035
-    ]
     ],
     "resist": {
-    "bash": 4.2,
-    "cut": 5.5,
-    "acid": 9,
-    "heat": 3,
-    "bullet": 4
+    "bash": 10.5,
+    "cut": 11.5,
+    "acid": 10.5,
+    "heat": 9.3,
+    "bullet": 7.5
     }
   }
 ]
