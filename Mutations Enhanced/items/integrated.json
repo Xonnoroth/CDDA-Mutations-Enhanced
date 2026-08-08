@@ -1,6 +1,6 @@
 [
   {
-    "id": "integrated_bullet_resistant_fur",
+    "id": "integrated_ballistic_fur",
     "type": "ITEM",
     "subtypes": [ "ARMOR" ], 
     "name": "woven fur",
@@ -16,7 +16,7 @@
     "flags": [ "INTEGRATED", "ALLOWS_NATURAL_ATTACKS", "UNBREAKABLE", "PADDED", "NO_SALVAGE" ],
     "armor": [
       {
-        "material": [ { "type": "bullet_resistant_fur", "covered_by_mat": 100, "thickness": 3 } ],
+        "material": [ { "type": "ballistic_fur", "covered_by_mat": 100, "thickness": 3 } ],
         "covers": [
           "hand_l",
           "hand_r",
