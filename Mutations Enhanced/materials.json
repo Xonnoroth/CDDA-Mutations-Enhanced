@@ -3,6 +3,7 @@
     "type": "material",
     "id": "ballistic_fur",
     "name": "Ballistic Fur",
+    "//": "Generally better than Ballistic Kevlar; provides some electric resist but much less heat resist."
     "density": 1.4,
     "specific_heat_liquid": 0.83,
     "specific_heat_solid": 0.48,
@@ -20,6 +21,7 @@
     "type": "material",
     "id": "composite_scales",
     "name": "Composite Scales",
+    "//": "Comparable to or superior to Tempered Carbon Steel, no significant electric resist."
     "density": 2,
     "specific_heat_liquid": 0.82,
     "specific_heat_solid": 0.45,
