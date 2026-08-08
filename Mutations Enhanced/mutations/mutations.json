@@ -3,7 +3,7 @@
     "type": "mutation",
     "id": "fur_weave",
     "name": "Fur Weave",
-    "//": "Explicitly not skin or armor subtype to maintain the other properties and visuals of the fur this mutation developed on to. No visibility or ugliness either, the fur it builds off of looks normal from surface.",
+    "//": "Explicitly not skin or armor subtype to maintain the other properties and visuals of the fur this mutation developed under. No visibility or ugliness either, the fur it builds off of looks normal from surface.",
     "prereqs": [ "FUR", "LUPINE_FUR", "LUPINE_FUR_SUMMER", "URSINE_FUR", "URSINE_FUR_SUMMER", "FELINE_FUR", "LYNX_FUR", "RABBIT_FUR" ],
     "points": 3,
     "description": "The fur closest to your skin has grown into a complex weave, similar to ballistic kevlar.",
@@ -11,7 +11,7 @@
     "vitamin_cost": 160,
     "visibility": 0,
     "ugliness": 0,
-    "integrated_armor": [ "integrated_bullet_resistant_fur" ]
+    "integrated_armor": [ "integrated_ballistic_fur" ]
   },
   {
     "type": "mutation",
