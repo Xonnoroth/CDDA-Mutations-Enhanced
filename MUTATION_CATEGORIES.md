@@ -1,16 +1,17 @@
 # M32 GEM (General Enhancement Module)
-Prior to the Cataclysm, the M32 GEM was "standard issue" for any special operators that did not have the mental profile needed to deviate even slightly from the human form. While the strict cosmetic requirements necessary for the mental stability of such operators inhibit what is possible, the treatments still make someone verifiably superhuman in many aspects. A version of the Alpha mutation category that has been put through the R&D ringer, and largely enhanced with nearly all downsides removed, with a focus on making soldiers better at their jobs.
+Prior to the Cataclysm, the M32 GEM was "standard issue" for any special operators that did not have the mental profile needed to deviate significantly from the typical human form. While the strict cosmetic requirements necessary for the mental stability of such operators inhibited what was possible, the treatments still make someone verifiably superhuman in many aspects. The lack of specialization can be made up for with the use of military drugs, which GEM operatives handle uniquely well. A version of the Alpha mutation category that has been put through the R&D ringer, and largely enhanced with nearly all downsides removed, with a focus on making elite soldiers generally better at their jobs.
 
 Primary benefits:
-- All stats aside from intelligence gain a +12 (+4 for Int, but Fast Learner and Fast Reader). Number chosen to make even your average 8/8/8/8 human borderline superhuman, and a soldier undeniably so (especially given their largely unchanged physique).
+- All stats aside from intelligence gain a +10 (+4 for Int, but Fast Learner and Fast Reader). Number chosen to make even your average 8/8/8/8 human borderline superhuman, and a soldier undeniably so (given their largely unchanged physique).
 - Toughened skin and body (more HP and a bit of natural armor that doesn't impede any clothing, but nothing that can completely stop even a .22 LR)
 - Slightly increased speed and movement speed (Slightly relative to the rest of the mod, major relative to vanilla)
 - Increased pain tolerance and healing capabilities
 - Less sleep needed and slower to tire physically
+- Resistance or immunity to side effects from supersoldier drugs from the base game (Noonien, Lore, etc.)
 
 Downsides/Mixed:
 - Social penalties like Alpha that stem from superiority, but lessened
-- Still having your insides quickly become your outsides if a real mutant gets in melee with you (unless you're fulled geared and armored in a powered combat exoskeleton)
+- Still having your insides quickly become your outsides if a real mutant gets in melee with you (unless you're drugged up and armored in a powered combat exoskeleton)
 
 # X4-IS Chimera (Experimental - Infantry Support)
 A decade-old failed experimental mutation category that sought to turn an elite soldier into a quadrupedal beast the size of a small pickup truck, in the hopes of filling a role similar to an IFV or tank. The program succeeded at doing exactly that, although at even greater cost than such vehicles and crew, without addressing all the weaknesses of such vehicles, and adding weaknesses of their own (namely slower top speed and other soldiers being terrified of a tank-like beast that can and might eat them if rations ever run low). Nonetheless, the few that underwent the treatment were still fielded prior to and during the Cataclysm, and all of them were still alive then.
